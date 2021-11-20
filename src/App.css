@@ -1,0 +1,152 @@
+
+.Header {
+  opacity: 0.85;
+
+}
+
+.navbar-default {
+  background-color: transparent;
+}
+.Head {
+  text-align: center;
+}
+
+.Title {
+  text-align: center;
+}
+
+.Mainpic {
+  padding-left: 100px;
+
+}
+
+.Bigtext {
+
+  color: white;
+  text-shadow: 2px 2px 8px black;
+  padding: 60px;
+  text-align: center;
+  font-weight: 1500;
+  /* font-family: 'Merriweather', serif; */
+  /* font-family: 'Tangerine', cursive; */
+  /* font-family: 'Eagle Lake', cursive; */
+  /* font-family: 'Fondamento', cursive; */
+  font-family: 'IM Fell Double Pica', serif;
+  font-size: xx-large;
+
+}
+
+.App {
+  align-content: center;
+  /* font-family: 'Nunito Sans', sans-serif; */
+  /* font-family: 'Raleway', sans-serif; */
+  font-family: Poppins, sans-serif;
+  font-size: 16px; 
+  /* font-family: 'Lora', serif; */
+}
+
+.card {
+  display: flex;
+  align-content: center;
+  width: fit-content;
+  height: fit-content;
+  
+}
+
+.row {
+  padding: 20px;
+
+}
+
+.navbar-brand {
+  padding-left: 50px;
+}
+
+
+.row1 {
+    align-content: left
+    
+}
+
+.hours {
+  white-space: pre-wrap;
+}
+.container{
+  max-width: 500px;
+}
+.newpatients {
+  text-align: center;
+}
+
+.img1 {
+  padding: 20px;
+  padding-top: 100px;
+}
+.img2 {
+  padding-top: 80px;
+}
+.img3 {
+  padding-left: 150px;
+  padding-top: 50px;
+}
+.img4 {
+  padding-left: 150px;
+  padding-top: 50px;
+}
+.img6 {
+  padding-left: 5px;
+}
+.img5 {
+  padding-top: 150px;
+}
+.classes {
+  text-align: center;
+}
+.Blog {
+  text-align: center;
+}
+
+.profilepic{
+  padding-left: 150px;
+}
+.profilepic2 {
+  padding-left: 150px
+}
+
+.books {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.drwuname, .ericwuname {
+  text-align: center;
+}
+
+.row2 {
+  padding-left: 230px;
+  padding-bottom: 50px;
+  padding-top: 30px;
+}
+.card, .card-title {
+
+  text-align: center;
+  max-width: 800px;
+}
+
+.card-text {
+  text-align: left;
+}
+
+.qigongbook {
+  padding-bottom: 15px;
+}
+
+
+
+.button1 {
+  padding-left: 35px;
+}
+.row3 {
+  display: flex;
+  justify-content: space-around;
+}
